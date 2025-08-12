@@ -34,8 +34,7 @@ p {
 }
 
 .categoria-videos {
-    display: flex;
-    overflow-x: auto;
+   display: flex;
     gap: 10px;
 }
 
